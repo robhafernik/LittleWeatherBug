@@ -1,0 +1,63 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "README.md": {
+        "previousModTime": 1459624765000,
+        "modified": 1459624765000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "SerialWeatherBug.xdk": {
+        "previousModTime": 1459624765000,
+        "modified": 1459624765000,
+        "seen": true,
+        "name": "SerialWeatherBug.xdk"
+      },
+      "SerialWeatherBug.xdke": {
+        "previousModTime": 1459626361000,
+        "modified": 1459626361000,
+        "seen": true,
+        "name": "SerialWeatherBug.xdke"
+      },
+      "main.js": {
+        "previousModTime": 1460222465000,
+        "modified": 1460222465000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1459624765000,
+        "modified": 1459624765000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1459624765000,
+        "modified": 1459624765000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "README.md": {
+        "previousModTime": 1460222538435
+      },
+      "main.js": {
+        "previousModTime": 1460222538435
+      },
+      "package.json": {
+        "previousModTime": 1460222538435
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1460222538435
+      }
+    }
+  }
+}
